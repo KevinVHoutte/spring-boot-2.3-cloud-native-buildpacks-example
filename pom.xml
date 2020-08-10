@@ -17,9 +17,7 @@
 		<java.version>11</java.version>
 	</properties>
 
-	<scm><developerConnection>
-		git@github.com:KevinVHoutte/spring-boot-2.3-cloud-native-buildpacks-example.git
-	</developerConnection></scm>
+	<scm><url>git@github.com:KevinVHoutte/spring-boot-2.3-cloud-native-buildpacks-example.git</url></scm>
 
 	<dependencies>
 		<dependency>
