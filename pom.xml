@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>cloud.native.buildpacks.example</groupId>
 	<artifactId>cloud-native-buildpacks-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>cloud-native-buildpacks-example</name>
 	<description>Demo project for Spring Boot 2.3.0 M1</description>
 
@@ -17,7 +17,8 @@
 		<java.version>11</java.version>
 	</properties>
 
-	<scm><url>git@github.com:KevinVHoutte/spring-boot-2.3-cloud-native-buildpacks-example.git</url></scm>
+	<scm><url>git@github.com:KevinVHoutte/spring-boot-2.3-cloud-native-buildpacks-example.git</url>  <tag>cloud-native-buildpacks-example-0.0.1</tag>
+  </scm>
 
 	<dependencies>
 		<dependency>
